@@ -1,6 +1,6 @@
 # A3
 Projeto desenvolvido para atividade acadêmica
-Descrição do Projeto
+Descrição do Projeto:
 
 O projeto consiste no desenvolvimento de um Sistema de Gestão de Projetos e Equipes utilizando a linguagem Java. A aplicação terá como principal objetivo auxiliar empresas no controle de projetos, equipes e tarefas, permitindo uma gestão mais eficiente dos colaboradores, acompanhamento de prazos e organização das atividades.
 
